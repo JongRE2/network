@@ -3,7 +3,7 @@
 참고 ) 소켓통신 프로그래밍 = 7계층 프로토콜 을 만들기
 
 + 인터넷 통신
-+ IP
++ [IP](./IP/README.md)
 + TCP, UDP
 + PORT
 + DNS
