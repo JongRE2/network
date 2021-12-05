@@ -12,11 +12,11 @@
 
   (패킷의 구성)
 
-  ![image-20211202182513718](C:.\images\ippacket.png) 
+  ![image-20211202182513718](.\images\ippacket.png) 
 
   이렇게 IP패킷을 구성하고 '인터넷망'에 던져진다.
 
-![image-20211202182642826](C:.\images\ippacket2.png) 
+![image-20211202182642826](.\images\ippacket2.png) 
 
 #### 클라이언트 --> 서버
 
