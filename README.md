@@ -4,7 +4,7 @@
 
 + 인터넷 통신
 + [IP](./IP/README.md)
-+ TCP, UDP
++ [TCP, UDP](./TCP-UDP/README.md)
 + PORT
 + DNS
 
