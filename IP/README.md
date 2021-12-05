@@ -12,7 +12,7 @@
 
   (패킷의 구성)
 
-  ![image-20211202182513718](.\images\ippacket.png) 
+  ![image-20211202182513718](./images/ippacket.png "IP패킷") 
 
   이렇게 IP패킷을 구성하고 '인터넷망'에 던져진다.
 
