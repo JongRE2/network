@@ -5,8 +5,8 @@
 + 인터넷 통신
 + [IP](./IP/README.md)
 + [TCP, UDP](./TCP-UDP/README.md)
-+ PORT
-+ DNS
++ [PORT](./PORT/README.md)
++ [DNS](./DNS/README.md)
 
 ## URI와 웹 브라우저 요청 흐름
 
