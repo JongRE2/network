@@ -71,13 +71,13 @@
 
 표현은 리소스 내용을 가진다.(예: 회원 리소스)
 
-![스크린샷 2022-11-22 오후 6.23.06](./images/스크린샷 2022-11-22 오후 6.23.06.png) 
+![스크린샷 2022-11-22 오후 6.23.06](./images/image_content-type.png) 
 
 - a. Content-Type: 표현 데이터의 형식 ( 리소스를  html형식으로 전송할건지, json형식으로 전송할건지 )
 
   - charSet은 message body의 문자를 어떤 방식으로 인코딩할지를 정한다.(charset = UTF-8)
 
-  <img src="./images/스크린샷 2022-11-22 오후 6.31.37.png" alt="스크린샷 2022-11-22 오후 6.31.37" style="zoom:85%;" />  
+  <img src="./images/image_content-type2.png" alt="스크린샷 2022-11-22 오후 6.31.37" style="zoom:85%;" />  
 
 - b. Content-Encoding: 표현 데이터의 압축 방식 (예 : Content-Encoding : gzip)
 
