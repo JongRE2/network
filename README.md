@@ -18,10 +18,10 @@
 ### HTTP 기본
 
 + [모든 것이 HTTP](./7_HTTP/README.md)
-+ [클라이언트 서버 구조](./HTTP/README.md)
-+ [Stateful, Stateless](./STATELESS/README.md)
-+ [비연결성 ( = connectionless )](./CONNECTIONLESS/README.md)
-+ [HTTP메시지](./HTTP-MESSAGE/README.md)
++ [클라이언트 서버 구조](./7_HTTP/README.md)
++ [Stateful, Stateless](./8_STATELESS/README.md)
++ [비연결성 ( = connectionless )](./9_CONNECTIONLESS/README.md)
++ [HTTP메시지](./10_HTTP-MESSAGE/README.md)
 
 
 
@@ -47,7 +47,7 @@
 + [2xx - 성공](./HTTP-API/README.md)
 + [3xx - 리다이렉션1 - 영구 리다이렉션](./17_HTTP_status-code/README.md)
 + [3xx - 리다이렉션2 - 일시 리다이렉션](./17_HTTP_status-code/README.md)
-+ [4xx - 클라이언트 오류, 5xx - 서버 오류](./HTTP-API/README.md)
++ [4xx - 클라이언트 오류, 5xx - 서버 오류](./17_HTTP_status-code/README.md)
 
 
 
