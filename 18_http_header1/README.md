@@ -71,13 +71,13 @@
 
 표현은 리소스 내용을 가진다.(예: 회원 리소스)
 
-![스크린샷 2022-11-22 오후 6.23.06](images/스크린샷 2022-11-22 오후 6.23.06.png) 
+![스크린샷 2022-11-22 오후 6.23.06](./images/스크린샷 2022-11-22 오후 6.23.06.png) 
 
 - a. Content-Type: 표현 데이터의 형식 ( 리소스를  html형식으로 전송할건지, json형식으로 전송할건지 )
 
   - charSet은 message body의 문자를 어떤 방식으로 인코딩할지를 정한다.(charset = UTF-8)
 
-  <img src="images/스크린샷 2022-11-22 오후 6.31.37.png" alt="스크린샷 2022-11-22 오후 6.31.37" style="zoom:85%;" />  
+  <img src="./images/스크린샷 2022-11-22 오후 6.31.37.png" alt="스크린샷 2022-11-22 오후 6.31.37" style="zoom:85%;" />  
 
 - b. Content-Encoding: 표현 데이터의 압축 방식 (예 : Content-Encoding : gzip)
 
@@ -200,8 +200,11 @@ b. 클라이언트가 원하는 언어를  Accept-Language: ko를 담아서 요�
 ### 협상과 우선순위3
 
 - 구체적인 것을 기준으로 미디어 타입을 맞춘다.
-- Accept: **text/\***;q=0.3, **text/html**;q=0.7, **text/html;level=1**,**text/html;level=2**;q=0.4, ***/\***;q=0.5
-  ![image-20221122191918933](images/image-20221122191918933.png) 
+
+- Accept: **text/\***;q=0.3, **text/html**;q=0.7, **text/html;level=1**,**text/html;level=2**;q=0.4, ***/\***;q=0.
+
+
+  ![image-20221122191918933](images/image-20221122191918933.png)
 
 
 
@@ -232,6 +235,7 @@ b. 클라이언트가 원하는 언어를  Accept-Language: ko를 담아서 요�
 ### b. 압축 전송 : Content-Encoding
 
 Message-body를 content-encoding 내용에 맞춰 압축을 한다.
+
 ![image-20221122193157419](images/image-20221122193157419.png) 
 
 
