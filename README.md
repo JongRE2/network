@@ -72,3 +72,9 @@
 + [캐시와 조건부 요청 헤더](./19_http_header2/README.md)
 + [프록시 캐시](./19_http_header2/README.md)
 + [캐시 무효화](./19_http_header2/README.md)
+
+
+
+### 추가 정리
+
+- [Ethernet](./20_ethernet/README.md)
