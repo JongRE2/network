@@ -2,7 +2,7 @@
 
 ![image-20220202010729845](./images/urlInfo.png) 
 
-
+- 스키마를 https로 작성하고 만약에 port번호를 작성안하면 https의 default 포트인 443으로 알아서 인지하고 요청 url이 보내진다.
 
 ## http요청 메시지는 어떻게 생겼는가?
 
@@ -52,7 +52,7 @@ HOST는 내가 찾으려는 서버의 도메인명인 것이다.
 
 그리고 이미지처럼 구글서버(웹서버)에서 'http응답메시지'를 만든다.
 
-> Content-Type : 밑에 나오는 <html> <body> ...~ 인 응답하는 내용이 어떤 데이터형식인지 정보를 지정.
+> Content-Type : 밑에 message body부분에 나오는 <html> <body> ...~ 인 내용이 어떤 데이터형식인지 알려주는 역할을 한다.
 >
 > Content-Length : 응답하는 데이터의 길이
 
