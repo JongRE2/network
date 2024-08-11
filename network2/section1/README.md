@@ -26,21 +26,21 @@ ARPAnet = > 인터넷으로 발전
 
 중간배선반의 예:
 
-<img src="C:\Users\kjy59\AppData\Roaming\Typora\typora-user-images\image-20230806201538712.png" alt="image-20230806201538712" style="zoom:50%;" /> 
+<img src="images/image-20230806201538712.png" alt="image-20230806201538712" style="zoom:50%;" /> 
 
-<img src="C:\Users\kjy59\AppData\Roaming\Typora\typora-user-images\image-20230806202351087.png" alt="image-20230806202351087" style="zoom:50%;" />  
+<img src="images/image-20230806202351087.png" alt="image-20230806202351087" style="zoom:50%;" />  
 
 
 
 주배선반 ->
 
-<img src="C:\Users\kjy59\AppData\Roaming\Typora\typora-user-images\image-20230806211836367.png" alt="image-20230806211836367" style="zoom:50%;" />  
+<img src="images/image-20230806211836367.png" alt="image-20230806211836367" style="zoom:50%;" />  
 
  
 
 ISP는 우리가 흔히 통신사라고 말하는 곳이다. (SK, KT,LG)
 
-![image-20230806212359448](C:\Users\kjy59\AppData\Roaming\Typora\typora-user-images\image-20230806212359448.png) 
+![image-20230806212359448](images/image-20230806212359448.png) 
 
 ISP들은 속도가 아주 빠른 광케이블을 이용해서 네트워크를 만든다. 이 부분을 흔히 백본 또는 코어라고 말한다.
 
@@ -50,13 +50,13 @@ ISP들은 속도가 아주 빠른 광케이블을 이용해서 네트워크를 �
 
 1티어로의 연결은 광케이블을 이용해서 바닷속으로 연결되어 있다.
 
-![image-20230806212603707](C:\Users\kjy59\AppData\Roaming\Typora\typora-user-images\image-20230806212603707.png) 
+![image-20230806212603707](images/image-20230806212603707.png) 
 
 미국의 ISP로 전달된 요청 데이터는 미국의 ISP와 연결된 구굴의 웹서버에 요청데이터를 전달한다.
 
 (참고 : 구글은 '구글파이버'라는 사업으로 ISP기업으로도 운영됨)
 
-![image-20230806212802888](C:\Users\kjy59\AppData\Roaming\Typora\typora-user-images\image-20230806212802888.png) 
+![image-20230806212802888](images/image-20230806212802888.png) 
 
 간단하게 설명했지만 여기 구글웹서버까지 데이터가 전달되는데까지 수많은 프로토콜을 이용한다.
 
@@ -74,7 +74,7 @@ ISP들은 속도가 아주 빠른 광케이블을 이용해서 네트워크를 �
 
 단점 : 중앙통신 회선을 노드들이 공통적으로 공유하기때문에 트래픽이 증가하면 충돌이 발생해 성능이 떨어진다.(다른 노드에 데이터가 전달될떄 지연발생)
 
-![image-20230806213815422](C:\Users\kjy59\AppData\Roaming\Typora\typora-user-images\image-20230806213815422.png) 
+![image-20230806213815422](images/image-20230806213815422.png) 
 
 ### 스타 토폴로지
 
